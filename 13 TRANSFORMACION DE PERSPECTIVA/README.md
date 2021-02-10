@@ -1,4 +1,4 @@
-## 🖱️ EVENTOS DEL MOUSE | OpenCV con Python
+## Transformación de perspectiva | OpenCV con Python
 
 Para una descripción más detallada sobre el proceso de construcción de los programas, por favor dirígete a:
 
