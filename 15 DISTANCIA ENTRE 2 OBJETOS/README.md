@@ -8,4 +8,4 @@ Video: https://youtu.be/HDFDO1g9Pqk
 
 Veamos un ejemplo de los resultados:
 
-![](mouseEventsOpenCV.gif)
+![](distancia2Objetos.gif)
